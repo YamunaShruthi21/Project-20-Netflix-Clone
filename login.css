@@ -206,29 +206,6 @@ form button {
     width: 100%;
   }
 
-  .feature__backgroud__video__container {
-    position: absolute;
-    width: 100%;
-    top: 20%;
-    left: 13%;
-    height: 100%;
-    max-width: 73%;
-    max-height: 54%;
-    z-index: -2;
-  }
-  
-  .feature__backgroud__video {
-    width: 100%;
-  }
-
-  .feature__3__backgroud__video__container {
-    max-width: 63%;
-    max-height: 47%;
-    z-index: -2;
-    top: 9%;
-    left: 19%;
-  }
-
   .feature__image__container {
     max-width: 500px;
   }
